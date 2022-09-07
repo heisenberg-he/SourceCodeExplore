@@ -1,3 +1,2 @@
-# mybatis-sourceCode
-mybatis源码学习
-突然有一天，感觉到自己一直深陷于crud无法自拔，感觉自己什么都懂却又什么都不懂的时候，我想提升自己了，学习源码就是一个途径，学习优秀的思维，代码设计，代码书写。那就先从MyBatis开始吧！
+# SourceCodeExplore
+记录我与源码的点点滴滴
