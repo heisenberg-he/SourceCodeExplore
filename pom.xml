@@ -5,7 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hwd</groupId>
-    <artifactId>mybatis-source</artifactId>
+    <artifactId>my-source</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>my-spring</module>
+    </modules>
     <version>3.0</version>
 </project>
