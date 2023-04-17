@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="userDao" class="com.bean.UserDao">
+        <property name="username" value="root"/>
+        <property name="password" value="root123"/>
+    </bean>
+
+    <bean id="userService" class="com.bean.UserService">
+        <property name="name" value="heisenberg"/>
+        <property name="userDao" ref="userDao"/>
+    </bean>
+</beans>
